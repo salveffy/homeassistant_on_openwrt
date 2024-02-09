@@ -138,8 +138,7 @@ opkg install \
   python3-unittest \
   python3-urllib \
   python3-urllib3 \
-  python3-xml \
-  python3-yarl
+  python3-xml
 
 # openwrt master doesn't have this package
 opkg install python3-gdbm 2>/dev/null || true
