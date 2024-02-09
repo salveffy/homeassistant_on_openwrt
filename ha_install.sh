@@ -139,7 +139,6 @@ opkg install \
   python3-urllib \
   python3-urllib3 \
   python3-xml \
-#  python3-yaml \
   python3-yarl
 
 # openwrt master doesn't have this package
